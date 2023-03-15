@@ -1,0 +1,21 @@
+{
+  "translation": {
+    "home": {
+      "title": "Welcome back!",
+      "yourPoints": " YOUR POINTS",
+      "yourMovements": "YOUR MOVEMENTS",
+      "btnRedeemed": "Redeemed",
+      "btnEarned": "Earned",
+      "btnAll": "All",
+      "filterPlaceholder": "All transactions",
+      "currentBalance": "Current Balance"
+    },
+    "details": {
+      "title": "Product details",
+      "date": "bought by {{date}}",
+      "subTitle": "This purchase gave you",
+      "btnAccept": "Accept",
+      "points": "{{points}} points"
+    }
+  }
+}
